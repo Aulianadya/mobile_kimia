@@ -1,6 +1,5 @@
 # Nama Proyek
-Projek ini adalah aplikasi tentang bisokop tickflix
-
+Projek ini adalah aplikasi tentang elemen kimia.
 ## Cara Menjalankan Proyek
 Buat email, client atau admin. Ketika memilih role admin, akan diarahkan ke halaman admin dashboar, ketika memilih role client, akan diarahkan ke home page. 
 Dalam home page berisi tentang informasi berbagai elemen-elemen kimia beserta detail dari elemen tersebut.
