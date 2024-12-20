@@ -1,5 +1,5 @@
 # Nama Proyek
-Projek ini adalah aplikasi tentang tabel periodik kimia.
+Projek ini adalah aplikasi tentang bisokop tickflix
 
 ## Cara Menjalankan Proyek
 Buat email, client atau admin. Ketika memilih role admin, akan diarahkan ke halaman admin dashboar, ketika memilih role client, akan diarahkan ke home page. 
